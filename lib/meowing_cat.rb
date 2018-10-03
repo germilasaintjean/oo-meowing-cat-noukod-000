@@ -1,5 +1,7 @@
 class Cat
-  attr_accessor : name
+  attr_writer :name
+  attr_reader :name
+  
   def name=(name)
     @name = name
   end
