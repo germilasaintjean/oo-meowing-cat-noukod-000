@@ -8,6 +8,7 @@ end
 def name
   @nme
 end
+end
 
 maru = Cat.new
 maru.name = "Maru"
