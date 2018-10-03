@@ -6,7 +6,7 @@ def name=(name)
   @name = name
 end
 def name
-  @nme
+  @name
 end
 end
 
