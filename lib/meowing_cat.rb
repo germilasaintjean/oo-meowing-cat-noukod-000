@@ -8,6 +8,8 @@ class Cat
   def name
     @name
   end
+  def meow 
+  end
 end
 def meow
   puts "meow!"
@@ -17,3 +19,4 @@ end
 maru.name = "Maru"
 maru.name
 maru.meow
+
