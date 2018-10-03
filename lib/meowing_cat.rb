@@ -7,7 +7,7 @@ class Cat
   end
   def name=(cat_name)
     @cat_name = new_name
-  end 
+  end
   def name
     puts "meow!"
   end
