@@ -1,8 +1,8 @@
 class Cat
+  attr_accessor :meow
   attr_writer :name
   attr_reader :name
-  attr_writer :meow
-  attr_reader :meow
+
 
 
   def name=(name)
